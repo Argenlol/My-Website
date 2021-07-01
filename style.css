@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+/* header */
+
+.header{
+    background-color: rgb(74, 182, 137);
+    max-width: 1800px;
+}
+ 
+.moun {
+    height: 55px;
+    width: 55px;
+}
+
+.items{
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+
+    border-bottom: 8px solid rgb(209, 206, 15) ;
+}
+
+.mountains {
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    background: url(./gor2.png) center no-repeat /cover;
+}
+/* end */
+
+/* section 1*/
+
+
+
+.list {
+    color: rgb(241, 241, 241);
+}
+
+.container {
+    font-family:'Roboto', sans-serif ;
+    text-decoration: underline;
+}
+
+/* end */
+
+/* section 2*/
+.content {
+ background-color: #e4eeee;
+}
+
+.inst {
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+}
+
+.vk {
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+}
+
+.tw {
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+}
+
+/* end */
+
+/* section 3 */
+
+.pictures {
+    height: 200px;
+    width: 200px;
+}
+
+/* end */
+
+/* footer */
+.footer {
+    background-color: #0F2336;
+    height: 200px;
+}
+
+.byee {
+    height: 90px;
+    width: 90px;
+}
+
+.thank {
+    color: lightblue;
+    text-align: center;
+}
+/* end */
+
+
+
